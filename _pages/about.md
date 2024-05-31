@@ -1,12 +1,3 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
 I received the B.E. degree in information and computing science and the M.E. degree in operational research and cybernetics from Lanzhou Jiaotong University, Lanzhou, China, in 2007 and 2010, respectively, and the Ph.D. degree in computer science from Peking University, Beijing, China, in 2015. I'm a Professor at the Institute of Computing Science and Technology, Guangzhou University, Guangzhou, China. My current research interests include theoretical, algorithmic, and applied research on hard problems.
 
 
